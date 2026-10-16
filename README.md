@@ -1,8 +1,11 @@
 # Macro XAUUSD calendar
 
 Lịch dữ liệu vĩ mô ảnh hưởng tới XAUUSD, giờ Việt Nam, chia mức ảnh hưởng, kèm link kiểm tra dữ liệu.
-File `macro_xauusd.ics` được một routine Claude Code cập nhật **mỗi thứ Sáu 18:00 VN** (thêm lịch phát biểu Fed,
-sự kiện bất thường tuần tới, xác nhận lại các ngày đánh dấu "(?)").
+File `macro_xauusd.ics` được cập nhật tự động hai tầng:
+- **GitHub Actions, hàng ngày 17:00 VN:** đọc feed JSON lịch Fed, thêm phát biểu của Chủ tịch / Phó Chủ tịch / Thống đốc Fed
+  trong 21 ngày tới, lưu snapshot các trang lịch chính thức vào `sources/`.
+- **Routine Claude Code, thứ Sáu 18:00 VN:** xác nhận lại các ngày "(?)", tìm sự kiện bất thường (điều trần, hạn chót
+  ngân sách/thuế quan), bổ sung kỳ công bố mới.
 
 | File | Mục đích |
 |---|---|
@@ -11,6 +14,9 @@ sự kiện bất thường tuần tới, xác nhận lại các ngày đánh d�
 | `events_q4_2026.py` | Sự kiện có lịch cố định (sửa tay) |
 | `events_dynamic.json` | Sự kiện routine tự thêm hàng tuần (Fed speakers, sự kiện bất thường) |
 | `build_ics.py` | Sinh lại `.ics` + `.md`: `python3 build_ics.py` |
+| `fetch_sources.py` | Tải feed Fed + snapshot trang lịch (GitHub Actions chạy hàng ngày) |
+| `sources/` | Bản text các trang lịch chính thức, để routine đọc offline |
+| `.github/workflows/update.yml` | Lịch chạy GitHub Actions |
 | `ROUTINE.md` | Quy trình routine hàng tuần thực hiện |
 
 ## Subscribe bằng tài khoản Google riêng (tự động đồng bộ, không cần import tay)
