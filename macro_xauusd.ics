@@ -1,0 +1,1348 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//macro-data//XAUUSD Macro Calendar Q4 2026//VI
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Macro XAUUSD
+X-WR-TIMEZONE:Asia/Ho_Chi_Minh
+X-WR-CALDESC:Lịch dữ liệu vĩ mô ảnh hưởng XAUUSD - giờ Vi
+ ệt Nam - nhắc trước 1h
+BEGIN:VEVENT
+UID:e0946b5749f3d5ab5401ecedd57a18ea@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261022T123000Z
+DTEND:20261022T130000Z
+SUMMARY:🟠 Đơn xin trợ cấp thất nghiệp lần đầu (Mỹ)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: Trung bình\nGiờ VN: 19:
+ 30 Thứ Năm 22/10/2026\nGiờ gốc: 08:30 (America/New_York)\n\n• 
+ Đơn xin trợ cấp thất nghiệp lần đầu (Mỹ)\n  Ghi chú: H
+ àng tuần. Mạnh hơn/yếu hơn dự báo tác động ngắn hạn 
+ tới USD & vàng.\n\nLink kiểm tra dữ liệu khi công bố:\n- htt
+ ps://www.dol.gov/ui/data.pdf\n- https://www.investing.com/economic-calen
+ dar/initial-jobless-claims-294\n- Lịch tổng hợp (ForexFactory): ht
+ tps://www.forexfactory.com/calendar
+CATEGORIES:XAUUSD,TB
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🟠 Đơn xin trợ cấp thất nghiệp lầ
+ n đầu (Mỹ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:24c5dd180625ec0870b0ad02ca6de97d@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261023T140000Z
+DTEND:20261023T143000Z
+SUMMARY:🟠 Tâm lý tiêu dùng Michigan T10 (chính thức) + kỳ v
+ ọng lạm phát
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: Trung bình\nGiờ VN: 21:
+ 00 Thứ Sáu 23/10/2026\nGiờ gốc: 10:00 (America/New_York)\n\n• T
+ âm lý tiêu dùng Michigan T10 (chính thức) + kỳ vọng lạm ph
+ át\n  Ghi chú: Chú ý kỳ vọng lạm phát 1 năm / 5 năm.\n\nLin
+ k kiểm tra dữ liệu khi công bố:\n- https://www.sca.isr.umich.ed
+ u/\n- https://www.investing.com/economic-calendar/michigan-consumer-sent
+ iment-320\n- Lịch tổng hợp (ForexFactory): https://www.forexfactor
+ y.com/calendar
+CATEGORIES:XAUUSD,TB
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🟠 Tâm lý tiêu dùng Michigan T10 (chính 
+ thức) + kỳ vọng lạm phát
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f644fbeb187fc24beb26604f6329d1d9@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261027T140000Z
+DTEND:20261027T143000Z
+SUMMARY:🟠 Niềm tin tiêu dùng Conference Board T10 (Mỹ) (ngày c
+ ần xác nhận)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: Trung bình\nGiờ VN: 21:
+ 00 Thứ Ba 27/10/2026\nGiờ gốc: 10:00 (America/New_York)\n\n• Ni
+ ềm tin tiêu dùng Conference Board T10 (Mỹ)\n  Ghi chú: Ngày theo
+  quy luật thứ Ba cuối tháng\, chưa có xác nhận chính thức
+ .\n  ⚠ Ngày theo quy luật/lịch bên thứ 3 — kiểm tra lại 
+ trước 1 tuần.\n\nLink kiểm tra dữ liệu khi công bố:\n- htt
+ ps://www.conference-board.org/research/consumer-confidence\n- https://ww
+ w.investing.com/economic-calendar/cb-consumer-confidence-48\n- Lịch t
+ ổng hợp (ForexFactory): https://www.forexfactory.com/calendar
+CATEGORIES:XAUUSD,TB
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🟠 Niềm tin tiêu dùng Conference Board T1
+ 0 (Mỹ) (ngày cần xác nhận)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3cb8ac7fe84217c354b541db5be6be9c@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261028T180000Z
+DTEND:20261028T193000Z
+SUMMARY:🔴 FOMC: Quyết định lãi suất + Tuyên bố (14:00 ET) +
+  Họp báo Chủ tịch Fed Warsh (14:30 ET)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: CAO\nGiờ VN: 01:00 Thứ
+  Năm 29/10/2026\nGiờ gốc: 14:00 (America/New_York)\n\n• FOMC: Quy
+ ết định lãi suất + Tuyên bố (14:00 ET) + Họp báo Chủ t
+ ịch Fed Warsh (14:30 ET)\n  Ghi chú: Sự kiện quan trọng nhất 
+ tháng với vàng. Không có dự báo kinh tế (SEP) kỳ này. Tuy
+ ên bố: federalreserve.gov/newsevents/pressreleases/monetary20261028a.
+ htm\n\nLink kiểm tra dữ liệu khi công bố:\n- https://www.federa
+ lreserve.gov/monetarypolicy/fomccalendars.htm\n- https://www.investing.c
+ om/economic-calendar/interest-rate-decision-168\n- https://www.cmegroup.
+ com/markets/interest-rates/cme-fedwatch-tool.html\n- Lịch tổng hợp
+  (ForexFactory): https://www.forexfactory.com/calendar
+CATEGORIES:XAUUSD,CAO
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🔴 FOMC: Quyết định lãi suất + Tuyên
+  bố (14:00 ET) + Họp báo Chủ tịch Fed Warsh (14:30 ET)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Còn 15 phút: 🔴 FOMC: Quyết định lãi suất + Tuyê
+ n bố (14:00 ET) + Họp báo Chủ tịch Fed Warsh (14:30 ET)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f76b3d60fc7939df052f1023e0e10ef8@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261029T123000Z
+DTEND:20261029T130000Z
+SUMMARY:🔴 GDP Q3/2026 (ước tính lần 1) + PCE lõi T9 (thước 
+ đo lạm phát ưa thích của Fed) + Đơn thất nghiệp
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: CAO\nGiờ VN: 19:30 Thứ
+  Năm 29/10/2026\nGiờ gốc: 08:30 (America/New_York)\n\n• GDP Q3/20
+ 26 (ước tính lần 1) + PCE lõi T9 (thước đo lạm phát ưa th
+ ích của Fed) + Đơn thất nghiệp\n  Ghi chú: BEA công bố cùn
+ g lúc GDP sơ bộ Q3 và Personal Income & Outlays T9 (gồm Core PCE)
+ .\n\nLink kiểm tra dữ liệu khi công bố:\n- https://www.bea.gov/
+ data/gdp/gross-domestic-product\n- https://www.bea.gov/data/income-savin
+ g/personal-income\n- https://www.investing.com/economic-calendar/gdp-375
+ \n- https://www.investing.com/economic-calendar/core-pce-price-index-61\
+ n- https://www.investing.com/economic-calendar/initial-jobless-claims-29
+ 4\n- Lịch tổng hợp (ForexFactory): https://www.forexfactory.com/ca
+ lendar
+CATEGORIES:XAUUSD,CAO
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🔴 GDP Q3/2026 (ước tính lần 1) + PCE l
+ õi T9 (thước đo lạm phát ưa thích của Fed) + Đơn thất ng
+ hiệp
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Còn 15 phút: 🔴 GDP Q3/2026 (ước tính lần 1) + PCE 
+ lõi T9 (thước đo lạm phát ưa thích của Fed) + Đơn thất n
+ ghiệp
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e34705c64aa02ad46b8f75c09bdd61bd@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261029T131500Z
+DTEND:20261029T144500Z
+SUMMARY:🟠 ECB: Quyết định lãi suất (14:15 CET) + Họp báo La
+ garde (14:45 CET)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: Trung bình\nGiờ VN: 20:
+ 15 Thứ Năm 29/10/2026\nGiờ gốc: 14:15 (Europe/Berlin)\n\n• ECB:
+  Quyết định lãi suất (14:15 CET) + Họp báo Lagarde (14:45 CET
+ )\n  Ghi chú: Ảnh hưởng gián tiếp qua EUR/USD -> DXY.\n\nLink k
+ iểm tra dữ liệu khi công bố:\n- https://www.ecb.europa.eu/press
+ /pr/date/html/index.en.html\n- https://www.investing.com/economic-calend
+ ar/interest-rate-decision-164\n- Lịch tổng hợp (ForexFactory): htt
+ ps://www.forexfactory.com/calendar
+CATEGORIES:XAUUSD,TB
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🟠 ECB: Quyết định lãi suất (14:15 CE
+ T) + Họp báo Lagarde (14:45 CET)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b75bf824e291d92920a02d68c07f47ff@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261030T023000Z
+DTEND:20261030T030000Z
+SUMMARY:🟠 BoJ: Quyết định chính sách tiền tệ + Báo cáo tr
+ iển vọng (Outlook Report)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: Trung bình\nGiờ VN: 09:
+ 30 Thứ Sáu 30/10/2026\nGiờ gốc: 11:30 (Asia/Tokyo)\n\n• BoJ: Qu
+ yết định chính sách tiền tệ + Báo cáo triển vọng (Outlo
+ ok Report)\n  Ghi chú: BoJ không ấn định giờ\; thường công 
+ bố 11:30–12:30 JST (≈ 09:30–10:30 VN). Họp báo Thống đốc
+  15:30 JST (13:30 VN).\n\nLink kiểm tra dữ liệu khi công bố:\n-
+  https://www.boj.or.jp/en/mopo/mpmdeci/index.htm\n- Lịch tổng hợp 
+ (ForexFactory): https://www.forexfactory.com/calendar
+CATEGORIES:XAUUSD,TB
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🟠 BoJ: Quyết định chính sách tiền t
+ ệ + Báo cáo triển vọng (Outlook Report)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2553254bc11aa1b6422eebab174d29f9@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261030T123000Z
+DTEND:20261030T130000Z
+SUMMARY:🟠 Chỉ số chi phí lao động ECI Q3/2026 (Mỹ)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: Trung bình\nGiờ VN: 19:
+ 30 Thứ Sáu 30/10/2026\nGiờ gốc: 08:30 (America/New_York)\n\n• C
+ hỉ số chi phí lao động ECI Q3/2026 (Mỹ)\n  Ghi chú: Thước 
+ đo tiền lương Fed theo dõi sát.\n\nLink kiểm tra dữ liệu kh
+ i công bố:\n- https://www.bls.gov/news.release/eci.nr0.htm\n- Lịch 
+ tổng hợp (ForexFactory): https://www.forexfactory.com/calendar
+CATEGORIES:XAUUSD,TB
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🟠 Chỉ số chi phí lao động ECI Q3/202
+ 6 (Mỹ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bb5b981edee12d80841f76e9349d2eb4@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:⚪ Mỹ kết thúc giờ mùa hè (DST) → dữ liệu 08:30 E
+ T chuyển từ 19:30 sang 20:30 giờ VN
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: Thông tin\nThời gian: c
+ ả ngày (không có giờ cố định)\n\n• Mỹ kết thúc giờ 
+ mùa hè (DST) → dữ liệu 08:30 ET chuyển từ 19:30 sang 20:30 g
+ iờ VN\n  Ghi chú: Từ hôm nay: 08:30 ET = 20:30 VN\, 10:00 ET = 22:
+ 00 VN\, FOMC 14:00 ET = 02:00 VN sáng hôm sau.\n\nLink kiểm tra dữ
+  liệu khi công bố:\n- Lịch tổng hợp (ForexFactory): https://w
+ ww.forexfactory.com/calendar
+CATEGORIES:XAUUSD,INFO
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:62f6213c23d90af6c615c716da1d4c75@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261102T150000Z
+DTEND:20261102T153000Z
+SUMMARY:🔴 ISM PMI Sản xuất T10 (Mỹ)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: CAO\nGiờ VN: 22:00 Thứ
+  Hai 02/11/2026\nGiờ gốc: 10:00 (America/New_York)\n\n• ISM PMI S
+ ản xuất T10 (Mỹ)\n  Ghi chú: Chú ý chỉ số phụ Prices Paid
+  (lạm phát) và Employment.\n\nLink kiểm tra dữ liệu khi công 
+ bố:\n- https://www.ismworld.org/supply-management-news-and-reports/rep
+ orts/ism-pmi-reports/\n- https://www.investing.com/economic-calendar/ism
+ -manufacturing-pmi-173\n- Lịch tổng hợp (ForexFactory): https://ww
+ w.forexfactory.com/calendar
+CATEGORIES:XAUUSD,CAO
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🔴 ISM PMI Sản xuất T10 (Mỹ)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Còn 15 phút: 🔴 ISM PMI Sản xuất T10 (Mỹ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50dd5ad03fb9d44a937ca714b11b489f@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:🔴 BẦU CỬ GIỮA KỲ MỸ (Midterm Elections)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: CAO\nThời gian: cả ng
+ ày (không có giờ cố định)\n\n• BẦU CỬ GIỮA KỲ MỸ (
+ Midterm Elections)\n  Ghi chú: Kết quả về rạng sáng 04/11 gi
+ ờ VN. Biến động mạnh USD\, lợi suất TPCP và vàng\; rủi 
+ ro gap.\n\nLink kiểm tra dữ liệu khi công bố:\n- https://www.fo
+ rexfactory.com/calendar\n- Lịch tổng hợp (ForexFactory): https://w
+ ww.forexfactory.com/calendar
+CATEGORIES:XAUUSD,CAO
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🔴 BẦU CỬ GIỮA KỲ MỸ (Midterm Elect
+ ions)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6e591447045433c7e5c5384c2efa5ee0@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261103T150000Z
+DTEND:20261103T153000Z
+SUMMARY:🟠 JOLTS: Cơ hội việc làm T9 (Mỹ) (ngày cần xác nh
+ ận)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: Trung bình\nGiờ VN: 22:
+ 00 Thứ Ba 03/11/2026\nGiờ gốc: 10:00 (America/New_York)\n\n• JOL
+ TS: Cơ hội việc làm T9 (Mỹ)\n  Ghi chú: Ngày theo lịch bên 
+ thứ 3 dẫn nguồn BLS.\n  ⚠ Ngày theo quy luật/lịch bên th
+ ứ 3 — kiểm tra lại trước 1 tuần.\n\nLink kiểm tra dữ li
+ ệu khi công bố:\n- https://www.bls.gov/news.release/jolts.nr0.htm\n
+ - https://www.investing.com/economic-calendar/jolts-job-openings-1057\n-
+  Lịch tổng hợp (ForexFactory): https://www.forexfactory.com/calend
+ ar
+CATEGORIES:XAUUSD,TB
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🟠 JOLTS: Cơ hội việc làm T9 (Mỹ) (ng
+ ày cần xác nhận)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d22639c6f92a02f74f58e8257bb8464c@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261104T131500Z
+DTEND:20261104T134500Z
+SUMMARY:🟠 ADP: Việc làm khu vực tư nhân T10 (Mỹ) (ngày cần
+  xác nhận)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: Trung bình\nGiờ VN: 20:
+ 15 Thứ Tư 04/11/2026\nGiờ gốc: 08:15 (America/New_York)\n\n• AD
+ P: Việc làm khu vực tư nhân T10 (Mỹ)\n  Ghi chú: Ngày ước 
+ tính (thứ Tư trước NFP). ADP chưa đăng lịch công khai.\n  
+ ⚠ Ngày theo quy luật/lịch bên thứ 3 — kiểm tra lại trư
+ ớc 1 tuần.\n\nLink kiểm tra dữ liệu khi công bố:\n- https:/
+ /adpemploymentreport.com/\n- https://www.investing.com/economic-calendar
+ /adp-nonfarm-employment-change-1\n- Lịch tổng hợp (ForexFactory): 
+ https://www.forexfactory.com/calendar
+CATEGORIES:XAUUSD,TB
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🟠 ADP: Việc làm khu vực tư nhân T10 (
+ Mỹ) (ngày cần xác nhận)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:76e5dcc2715d35aec3c01c391e839d52@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261104T133000Z
+DTEND:20261104T140000Z
+SUMMARY:🟠 Treasury Quarterly Refunding — kế hoạch phát hành TP
+ CP Mỹ quý tới (ngày cần xác nhận)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: Trung bình\nGiờ VN: 20:
+ 30 Thứ Tư 04/11/2026\nGiờ gốc: 08:30 (America/New_York)\n\n• Tr
+ easury Quarterly Refunding — kế hoạch phát hành TPCP Mỹ quý t
+ ới\n  Ghi chú: Quy mô phát hành trái phiếu dài hạn tăng →
+  lợi suất tăng → bất lợi cho vàng. Thứ Tư đầu tiên c
+ ủa tháng 2/5/8/11\, chưa xác nhận.\n  ⚠ Ngày theo quy luật/l
+ ịch bên thứ 3 — kiểm tra lại trước 1 tuần.\n\nLink kiể
+ m tra dữ liệu khi công bố:\n- https://home.treasury.gov/policy-is
+ sues/financing-the-government/quarterly-refunding\n- Lịch tổng hợp
+  (ForexFactory): https://www.forexfactory.com/calendar
+CATEGORIES:XAUUSD,TB
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🟠 Treasury Quarterly Refunding — kế ho
+ ạch phát hành TPCP Mỹ quý tới (ngày cần xác nhận)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:411b20ae8a644589072921b92c0d7158@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261104T150000Z
+DTEND:20261104T153000Z
+SUMMARY:🔴 ISM PMI Dịch vụ T10 (Mỹ)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: CAO\nGiờ VN: 22:00 Thứ
+  Tư 04/11/2026\nGiờ gốc: 10:00 (America/New_York)\n\n• ISM PMI D
+ ịch vụ T10 (Mỹ)\n  Ghi chú: Chú ý Prices Paid.\n\nLink kiểm t
+ ra dữ liệu khi công bố:\n- https://www.ismworld.org/supply-manage
+ ment-news-and-reports/reports/ism-pmi-reports/\n- https://www.investing.
+ com/economic-calendar/ism-non-manufacturing-pmi-176\n- Lịch tổng h
+ ợp (ForexFactory): https://www.forexfactory.com/calendar
+CATEGORIES:XAUUSD,CAO
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🔴 ISM PMI Dịch vụ T10 (Mỹ)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Còn 15 phút: 🔴 ISM PMI Dịch vụ T10 (Mỹ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acdbc477bb17c93c7802390b9c5bb7bf@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261105T120000Z
+DTEND:20261105T123000Z
+SUMMARY:🟠 BoE: Quyết định lãi suất + Báo cáo Chính sách ti
+ ền tệ T11
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: Trung bình\nGiờ VN: 19:
+ 00 Thứ Năm 05/11/2026\nGiờ gốc: 12:00 (Europe/London)\n\n• BoE:
+  Quyết định lãi suất + Báo cáo Chính sách tiền tệ T11\n 
+  Ghi chú: Ảnh hưởng gián tiếp qua GBP/USD.\n\nLink kiểm tra d
+ ữ liệu khi công bố:\n- https://www.bankofengland.co.uk/monetary-p
+ olicy-summary-and-minutes\n- Lịch tổng hợp (ForexFactory): https:/
+ /www.forexfactory.com/calendar
+CATEGORIES:XAUUSD,TB
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🟠 BoE: Quyết định lãi suất + Báo c
+ áo Chính sách tiền tệ T11
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:652b79a4aba050cb1f3a2dbf0592b0b2@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261105T133000Z
+DTEND:20261105T140000Z
+SUMMARY:🟠 Đơn xin trợ cấp thất nghiệp lần đầu (Mỹ)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: Trung bình\nGiờ VN: 20:
+ 30 Thứ Năm 05/11/2026\nGiờ gốc: 08:30 (America/New_York)\n\n• 
+ Đơn xin trợ cấp thất nghiệp lần đầu (Mỹ)\n\nLink kiểm
+  tra dữ liệu khi công bố:\n- https://www.dol.gov/ui/data.pdf\n- h
+ ttps://www.investing.com/economic-calendar/initial-jobless-claims-294\n-
+  Lịch tổng hợp (ForexFactory): https://www.forexfactory.com/calend
+ ar
+CATEGORIES:XAUUSD,TB
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🟠 Đơn xin trợ cấp thất nghiệp lầ
+ n đầu (Mỹ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e7d550f398b5d657c141722246840df8@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261106T133000Z
+DTEND:20261106T140000Z
+SUMMARY:🔴 BẢNG LƯƠNG PHI NÔNG NGHIỆP (NFP) T10 + Tỷ lệ th
+ ất nghiệp + Thu nhập giờ (Mỹ)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: CAO\nGiờ VN: 20:30 Thứ
+  Sáu 06/11/2026\nGiờ gốc: 08:30 (America/New_York)\n\n• BẢNG L
+ ƯƠNG PHI NÔNG NGHIỆP (NFP) T10 + Tỷ lệ thất nghiệp + Thu nh
+ ập giờ (Mỹ)\n  Ghi chú: Dữ liệu việc làm quan trọng nh
+ ất tháng.\n\nLink kiểm tra dữ liệu khi công bố:\n- https://w
+ ww.bls.gov/news.release/empsit.nr0.htm\n- https://www.investing.com/econ
+ omic-calendar/nonfarm-payrolls-227\n- Lịch tổng hợp (ForexFactory)
+ : https://www.forexfactory.com/calendar
+CATEGORIES:XAUUSD,CAO
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🔴 BẢNG LƯƠNG PHI NÔNG NGHIỆP (NFP) T1
+ 0 + Tỷ lệ thất nghiệp + Thu nhập giờ (Mỹ)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Còn 15 phút: 🔴 BẢNG LƯƠNG PHI NÔNG NGHIỆP (NFP) T
+ 10 + Tỷ lệ thất nghiệp + Thu nhập giờ (Mỹ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0cda8f89ac86dcbe1c790f03fbd43cfc@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:🟠 PBoC/SAFE: Dự trữ vàng Trung Quốc T10 (mua/bán vàng
+  của NHTW TQ) (ngày cần xác nhận)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: Trung bình\nThời gian: 
+ cả ngày (không có giờ cố định)\n\n• PBoC/SAFE: Dự trữ 
+ vàng Trung Quốc T10 (mua/bán vàng của NHTW TQ)\n  Ghi chú: Thư
+ ờng công bố ngày 7 hàng tháng\, không có giờ cố định. Y
+ ếu tố cầu vàng dài hạn.\n  ⚠ Ngày theo quy luật/lịch b
+ ên thứ 3 — kiểm tra lại trước 1 tuần.\n\nLink kiểm tra d
+ ữ liệu khi công bố:\n- https://www.safe.gov.cn/en/OfficialReserve
+ Assets/index.html\n- Lịch tổng hợp (ForexFactory): https://www.for
+ exfactory.com/calendar
+CATEGORIES:XAUUSD,TB
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🟠 PBoC/SAFE: Dự trữ vàng Trung Quốc T
+ 10 (mua/bán vàng của NHTW TQ) (ngày cần xác nhận)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3d3705520d94e55c923a9ff7d1135302@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261110T133000Z
+DTEND:20261110T140000Z
+SUMMARY:🔴 CPI T10 (Mỹ) — lạm phát tiêu dùng + CPI lõi
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: CAO\nGiờ VN: 20:30 Thứ
+  Ba 10/11/2026\nGiờ gốc: 08:30 (America/New_York)\n\n• CPI T10 (M
+ ỹ) — lạm phát tiêu dùng + CPI lõi\n  Ghi chú: Cùng với NFP
+  và FOMC là 3 sự kiện tác động mạnh nhất tới vàng.\n\nL
+ ink kiểm tra dữ liệu khi công bố:\n- https://www.bls.gov/news.r
+ elease/cpi.nr0.htm\n- https://www.investing.com/economic-calendar/cpi-69
+ \n- https://www.investing.com/economic-calendar/core-cpi-56\n- Lịch t
+ ổng hợp (ForexFactory): https://www.forexfactory.com/calendar
+CATEGORIES:XAUUSD,CAO
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🔴 CPI T10 (Mỹ) — lạm phát tiêu dùng
+  + CPI lõi
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Còn 15 phút: 🔴 CPI T10 (Mỹ) — lạm phát tiêu dùn
+ g + CPI lõi
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d8bf6b58b5b03c56b90c806a2a41d5fa@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261112T133000Z
+DTEND:20261112T140000Z
+SUMMARY:🟠 Đơn xin trợ cấp thất nghiệp lần đầu (Mỹ)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: Trung bình\nGiờ VN: 20:
+ 30 Thứ Năm 12/11/2026\nGiờ gốc: 08:30 (America/New_York)\n\n• 
+ Đơn xin trợ cấp thất nghiệp lần đầu (Mỹ)\n\nLink kiểm
+  tra dữ liệu khi công bố:\n- https://www.dol.gov/ui/data.pdf\n- h
+ ttps://www.investing.com/economic-calendar/initial-jobless-claims-294\n-
+  Lịch tổng hợp (ForexFactory): https://www.forexfactory.com/calend
+ ar
+CATEGORIES:XAUUSD,TB
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🟠 Đơn xin trợ cấp thất nghiệp lầ
+ n đầu (Mỹ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7d8f506670667b7823b2d2b72ff02e12@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261113T133000Z
+DTEND:20261113T140000Z
+SUMMARY:🔴 PPI T10 (Mỹ) — lạm phát sản xuất
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: CAO\nGiờ VN: 20:30 Thứ
+  Sáu 13/11/2026\nGiờ gốc: 08:30 (America/New_York)\n\n• PPI T10 (
+ Mỹ) — lạm phát sản xuất\n\nLink kiểm tra dữ liệu khi c
+ ông bố:\n- https://www.bls.gov/news.release/ppi.nr0.htm\n- https://ww
+ w.investing.com/economic-calendar/ppi-238\n- Lịch tổng hợp (ForexF
+ actory): https://www.forexfactory.com/calendar
+CATEGORIES:XAUUSD,CAO
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🔴 PPI T10 (Mỹ) — lạm phát sản xuấ
+ t
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Còn 15 phút: 🔴 PPI T10 (Mỹ) — lạm phát sản xu
+ ất
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4cc851df2403ad396daf7c17c4bfd02f@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261113T150000Z
+DTEND:20261113T153000Z
+SUMMARY:🟠 Tâm lý tiêu dùng Michigan T11 (sơ bộ) + kỳ vọng l
+ ạm phát (ngày cần xác nhận)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: Trung bình\nGiờ VN: 22:
+ 00 Thứ Sáu 13/11/2026\nGiờ gốc: 10:00 (America/New_York)\n\n• T
+ âm lý tiêu dùng Michigan T11 (sơ bộ) + kỳ vọng lạm phát\n 
+  Ghi chú: Ngày ước tính theo quy luật thứ Sáu tuần 2\; UMic
+ h chưa đăng lịch.\n  ⚠ Ngày theo quy luật/lịch bên thứ 3 
+ — kiểm tra lại trước 1 tuần.\n\nLink kiểm tra dữ liệu k
+ hi công bố:\n- https://www.sca.isr.umich.edu/\n- https://www.investin
+ g.com/economic-calendar/michigan-consumer-sentiment-320\n- Lịch tổng
+  hợp (ForexFactory): https://www.forexfactory.com/calendar
+CATEGORIES:XAUUSD,TB
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🟠 Tâm lý tiêu dùng Michigan T11 (sơ b
+ ộ) + kỳ vọng lạm phát (ngày cần xác nhận)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:51d8d73a974a5a3754e03a23da7a9ce7@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261117T133000Z
+DTEND:20261117T140000Z
+SUMMARY:🔴 Doanh số bán lẻ T10 (Mỹ)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: CAO\nGiờ VN: 20:30 Thứ
+  Ba 17/11/2026\nGiờ gốc: 08:30 (America/New_York)\n\n• Doanh số 
+ bán lẻ T10 (Mỹ)\n\nLink kiểm tra dữ liệu khi công bố:\n- h
+ ttps://www.census.gov/retail/sales.html\n- https://www.investing.com/eco
+ nomic-calendar/retail-sales-256\n- Lịch tổng hợp (ForexFactory): h
+ ttps://www.forexfactory.com/calendar
+CATEGORIES:XAUUSD,CAO
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🔴 Doanh số bán lẻ T10 (Mỹ)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Còn 15 phút: 🔴 Doanh số bán lẻ T10 (Mỹ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0818b67048554b5cc23f6102c8f99c08@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261118T190000Z
+DTEND:20261118T193000Z
+SUMMARY:🟠 Biên bản họp FOMC (cuộc họp 27–28/10) (ngày cầ
+ n xác nhận)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: Trung bình\nGiờ VN: 02:
+ 00 Thứ Năm 19/11/2026\nGiờ gốc: 14:00 (America/New_York)\n\n• B
+ iên bản họp FOMC (cuộc họp 27–28/10)\n  Ghi chú: Ngày suy r
+ a từ quy tắc '3 tuần sau quyết định' của Fed\; Fed chưa ni
+ êm yết chính thức.\n  ⚠ Ngày theo quy luật/lịch bên thứ 
+ 3 — kiểm tra lại trước 1 tuần.\n\nLink kiểm tra dữ liệu
+  khi công bố:\n- https://www.federalreserve.gov/monetarypolicy/fomcca
+ lendars.htm\n- https://www.investing.com/economic-calendar/fomc-meeting-
+ minutes-108\n- Lịch tổng hợp (ForexFactory): https://www.forexfact
+ ory.com/calendar
+CATEGORIES:XAUUSD,TB
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🟠 Biên bản họp FOMC (cuộc họp 27–
+ 28/10) (ngày cần xác nhận)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5d0d10b8467e16f53ebab1d752f81410@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261119T133000Z
+DTEND:20261119T140000Z
+SUMMARY:🟠 Đơn xin trợ cấp thất nghiệp lần đầu (Mỹ)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: Trung bình\nGiờ VN: 20:
+ 30 Thứ Năm 19/11/2026\nGiờ gốc: 08:30 (America/New_York)\n\n• 
+ Đơn xin trợ cấp thất nghiệp lần đầu (Mỹ)\n\nLink kiểm
+  tra dữ liệu khi công bố:\n- https://www.dol.gov/ui/data.pdf\n- h
+ ttps://www.investing.com/economic-calendar/initial-jobless-claims-294\n-
+  Lịch tổng hợp (ForexFactory): https://www.forexfactory.com/calend
+ ar
+CATEGORIES:XAUUSD,TB
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🟠 Đơn xin trợ cấp thất nghiệp lầ
+ n đầu (Mỹ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:01c0ea012f7dc9e3486cf064e5405015@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261124T150000Z
+DTEND:20261124T153000Z
+SUMMARY:🟠 Niềm tin tiêu dùng Conference Board T11 (Mỹ) (ngày c
+ ần xác nhận)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: Trung bình\nGiờ VN: 22:
+ 00 Thứ Ba 24/11/2026\nGiờ gốc: 10:00 (America/New_York)\n\n• Ni
+ ềm tin tiêu dùng Conference Board T11 (Mỹ)\n  ⚠ Ngày theo quy l
+ uật/lịch bên thứ 3 — kiểm tra lại trước 1 tuần.\n\nLin
+ k kiểm tra dữ liệu khi công bố:\n- https://www.conference-board
+ .org/research/consumer-confidence\n- https://www.investing.com/economic-
+ calendar/cb-consumer-confidence-48\n- Lịch tổng hợp (ForexFactory)
+ : https://www.forexfactory.com/calendar
+CATEGORIES:XAUUSD,TB
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🟠 Niềm tin tiêu dùng Conference Board T1
+ 1 (Mỹ) (ngày cần xác nhận)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5a53496a8a11c2d438fc98568bd072e8@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261125T133000Z
+DTEND:20261125T140000Z
+SUMMARY:🔴 GDP Q3/2026 (ước tính lần 2) + PCE lõi T10 + Đơn th
+ ất nghiệp (dời sớm do Lễ Tạ ơn)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: CAO\nGiờ VN: 20:30 Thứ
+  Tư 25/11/2026\nGiờ gốc: 08:30 (America/New_York)\n\n• GDP Q3/202
+ 6 (ước tính lần 2) + PCE lõi T10 + Đơn thất nghiệp (dời s
+ ớm do Lễ Tạ ơn)\n  Ghi chú: Dồn nhiều dữ liệu trước k
+ ỳ nghỉ\, thanh khoản mỏng → biến động mạnh.\n\nLink ki
+ ểm tra dữ liệu khi công bố:\n- https://www.bea.gov/data/gdp/gro
+ ss-domestic-product\n- https://www.bea.gov/data/income-saving/personal-i
+ ncome\n- https://www.investing.com/economic-calendar/core-pce-price-inde
+ x-61\n- https://www.investing.com/economic-calendar/initial-jobless-clai
+ ms-294\n- Lịch tổng hợp (ForexFactory): https://www.forexfactory.c
+ om/calendar
+CATEGORIES:XAUUSD,CAO
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🔴 GDP Q3/2026 (ước tính lần 2) + PCE l
+ õi T10 + Đơn thất nghiệp (dời sớm do Lễ Tạ ơn)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Còn 15 phút: 🔴 GDP Q3/2026 (ước tính lần 2) + PCE 
+ lõi T10 + Đơn thất nghiệp (dời sớm do Lễ Tạ ơn)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3793a06e4f538cdbdbe0e715187a3ae2@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261125T150000Z
+DTEND:20261125T153000Z
+SUMMARY:🟠 Tâm lý tiêu dùng Michigan T11 (chính thức) (ngày c
+ ần xác nhận)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: Trung bình\nGiờ VN: 22:
+ 00 Thứ Tư 25/11/2026\nGiờ gốc: 10:00 (America/New_York)\n\n• T
+ âm lý tiêu dùng Michigan T11 (chính thức)\n  Ghi chú: Ngày ư
+ ớc tính (thường dời lên thứ Tư trước Lễ Tạ ơn).\n  
+ ⚠ Ngày theo quy luật/lịch bên thứ 3 — kiểm tra lại trư
+ ớc 1 tuần.\n\nLink kiểm tra dữ liệu khi công bố:\n- https:/
+ /www.sca.isr.umich.edu/\n- https://www.investing.com/economic-calendar/m
+ ichigan-consumer-sentiment-320\n- Lịch tổng hợp (ForexFactory): ht
+ tps://www.forexfactory.com/calendar
+CATEGORIES:XAUUSD,TB
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🟠 Tâm lý tiêu dùng Michigan T11 (chính 
+ thức) (ngày cần xác nhận)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:90627ba029f34d8076bacca97b4234fb@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:⚪ Mỹ nghỉ Lễ Tạ ơn — thị trường Mỹ đóng c
+ ửa\, thanh khoản vàng rất mỏng
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: Thông tin\nThời gian: c
+ ả ngày (không có giờ cố định)\n\n• Mỹ nghỉ Lễ Tạ 
+ ơn — thị trường Mỹ đóng cửa\, thanh khoản vàng rất m
+ ỏng\n\nLink kiểm tra dữ liệu khi công bố:\n- https://www.nyse
+ .com/markets/hours-calendars\n- Lịch tổng hợp (ForexFactory): http
+ s://www.forexfactory.com/calendar
+CATEGORIES:XAUUSD,INFO
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9cb2e4c9720a30d471b1b2bc0223b976@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:⚪ Mỹ đóng cửa sớm 13:00 ET (01:00 VN 28/11) — Black F
+ riday
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: Thông tin\nThời gian: c
+ ả ngày (không có giờ cố định)\n\n• Mỹ đóng cửa sớm
+  13:00 ET (01:00 VN 28/11) — Black Friday\n\nLink kiểm tra dữ li
+ ệu khi công bố:\n- https://www.nyse.com/markets/hours-calendars\n- 
+ Lịch tổng hợp (ForexFactory): https://www.forexfactory.com/calenda
+ r
+CATEGORIES:XAUUSD,INFO
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c0c3f2800ed0f8dafd7e3c37b79ebcf6@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261201T150000Z
+DTEND:20261201T153000Z
+SUMMARY:🔴 ISM PMI Sản xuất T11 + JOLTS T10 (Mỹ)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: CAO\nGiờ VN: 22:00 Thứ
+  Ba 01/12/2026\nGiờ gốc: 10:00 (America/New_York)\n\n• ISM PMI S
+ ản xuất T11 + JOLTS T10 (Mỹ)\n\nLink kiểm tra dữ liệu khi c
+ ông bố:\n- https://www.ismworld.org/supply-management-news-and-report
+ s/reports/ism-pmi-reports/\n- https://www.investing.com/economic-calenda
+ r/ism-manufacturing-pmi-173\n- https://www.bls.gov/news.release/jolts.nr
+ 0.htm\n- https://www.investing.com/economic-calendar/jolts-job-openings-
+ 1057\n- Lịch tổng hợp (ForexFactory): https://www.forexfactory.com
+ /calendar
+CATEGORIES:XAUUSD,CAO
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🔴 ISM PMI Sản xuất T11 + JOLTS T10 (Mỹ
+ )
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Còn 15 phút: 🔴 ISM PMI Sản xuất T11 + JOLTS T10 (M
+ ỹ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d11b3631fb7e16aca12fc301ff91a8b7@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261202T131500Z
+DTEND:20261202T134500Z
+SUMMARY:🟠 ADP: Việc làm khu vực tư nhân T11 (Mỹ) (ngày cần
+  xác nhận)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: Trung bình\nGiờ VN: 20:
+ 15 Thứ Tư 02/12/2026\nGiờ gốc: 08:15 (America/New_York)\n\n• AD
+ P: Việc làm khu vực tư nhân T11 (Mỹ)\n  Ghi chú: Ngày ước 
+ tính.\n  ⚠ Ngày theo quy luật/lịch bên thứ 3 — kiểm tra l
+ ại trước 1 tuần.\n\nLink kiểm tra dữ liệu khi công bố:\n
+ - https://adpemploymentreport.com/\n- https://www.investing.com/economic
+ -calendar/adp-nonfarm-employment-change-1\n- Lịch tổng hợp (ForexF
+ actory): https://www.forexfactory.com/calendar
+CATEGORIES:XAUUSD,TB
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🟠 ADP: Việc làm khu vực tư nhân T11 (
+ Mỹ) (ngày cần xác nhận)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d13304a0246cae7b4980a3bb6bfb8b0f@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261203T133000Z
+DTEND:20261203T140000Z
+SUMMARY:🟠 Đơn xin trợ cấp thất nghiệp lần đầu (Mỹ)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: Trung bình\nGiờ VN: 20:
+ 30 Thứ Năm 03/12/2026\nGiờ gốc: 08:30 (America/New_York)\n\n• 
+ Đơn xin trợ cấp thất nghiệp lần đầu (Mỹ)\n\nLink kiểm
+  tra dữ liệu khi công bố:\n- https://www.dol.gov/ui/data.pdf\n- h
+ ttps://www.investing.com/economic-calendar/initial-jobless-claims-294\n-
+  Lịch tổng hợp (ForexFactory): https://www.forexfactory.com/calend
+ ar
+CATEGORIES:XAUUSD,TB
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🟠 Đơn xin trợ cấp thất nghiệp lầ
+ n đầu (Mỹ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:15c82f7702ab69ecb4e98acb2214cef4@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261203T150000Z
+DTEND:20261203T153000Z
+SUMMARY:🔴 ISM PMI Dịch vụ T11 (Mỹ)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: CAO\nGiờ VN: 22:00 Thứ
+  Năm 03/12/2026\nGiờ gốc: 10:00 (America/New_York)\n\n• ISM PMI D
+ ịch vụ T11 (Mỹ)\n\nLink kiểm tra dữ liệu khi công bố:\n- 
+ https://www.ismworld.org/supply-management-news-and-reports/reports/ism-
+ pmi-reports/\n- https://www.investing.com/economic-calendar/ism-non-manu
+ facturing-pmi-176\n- Lịch tổng hợp (ForexFactory): https://www.for
+ exfactory.com/calendar
+CATEGORIES:XAUUSD,CAO
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🔴 ISM PMI Dịch vụ T11 (Mỹ)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Còn 15 phút: 🔴 ISM PMI Dịch vụ T11 (Mỹ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e2772bdecaf27b0892b88f025d97f9bd@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261204T133000Z
+DTEND:20261204T140000Z
+SUMMARY:🔴 BẢNG LƯƠNG PHI NÔNG NGHIỆP (NFP) T11 + Tỷ lệ th
+ ất nghiệp + Thu nhập giờ (Mỹ)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: CAO\nGiờ VN: 20:30 Thứ
+  Sáu 04/12/2026\nGiờ gốc: 08:30 (America/New_York)\n\n• BẢNG L
+ ƯƠNG PHI NÔNG NGHIỆP (NFP) T11 + Tỷ lệ thất nghiệp + Thu nh
+ ập giờ (Mỹ)\n  Ghi chú: NFP cuối cùng trước FOMC 09/12.\n\n
+ Link kiểm tra dữ liệu khi công bố:\n- https://www.bls.gov/news.
+ release/empsit.nr0.htm\n- https://www.investing.com/economic-calendar/no
+ nfarm-payrolls-227\n- Lịch tổng hợp (ForexFactory): https://www.fo
+ rexfactory.com/calendar
+CATEGORIES:XAUUSD,CAO
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🔴 BẢNG LƯƠNG PHI NÔNG NGHIỆP (NFP) T1
+ 1 + Tỷ lệ thất nghiệp + Thu nhập giờ (Mỹ)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Còn 15 phút: 🔴 BẢNG LƯƠNG PHI NÔNG NGHIỆP (NFP) T
+ 11 + Tỷ lệ thất nghiệp + Thu nhập giờ (Mỹ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:386f672fb2ca7e9e6d36d36b2eb88633@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:🟠 PBoC/SAFE: Dự trữ vàng Trung Quốc T11 (ngày cần x
+ ác nhận)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: Trung bình\nThời gian: 
+ cả ngày (không có giờ cố định)\n\n• PBoC/SAFE: Dự trữ 
+ vàng Trung Quốc T11\n  Ghi chú: Thường ngày 7 hàng tháng.\n  
+ ⚠ Ngày theo quy luật/lịch bên thứ 3 — kiểm tra lại trư
+ ớc 1 tuần.\n\nLink kiểm tra dữ liệu khi công bố:\n- https:/
+ /www.safe.gov.cn/en/OfficialReserveAssets/index.html\n- Lịch tổng h
+ ợp (ForexFactory): https://www.forexfactory.com/calendar
+CATEGORIES:XAUUSD,TB
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🟠 PBoC/SAFE: Dự trữ vàng Trung Quốc T
+ 11 (ngày cần xác nhận)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a9859f6ff898d15755eb9555f5e0cdcf@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261209T190000Z
+DTEND:20261209T203000Z
+SUMMARY:🔴 FOMC: Quyết định lãi suất + Tuyên bố + DỰ BÁO 
+ KINH TẾ (SEP\, dot plot) 14:00 ET + Họp báo Warsh 14:30 ET
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: CAO\nGiờ VN: 02:00 Thứ
+  Năm 10/12/2026\nGiờ gốc: 14:00 (America/New_York)\n\n• FOMC: Quy
+ ết định lãi suất + Tuyên bố + DỰ BÁO KINH TẾ (SEP\, dot 
+ plot) 14:00 ET + Họp báo Warsh 14:30 ET\n  Ghi chú: Kỳ họp có d
+ ot plot → thị trường định giá lại lộ trình lãi suất 2
+ 027. Biến động cực mạnh. Tuyên bố: federalreserve.gov/newsev
+ ents/pressreleases/monetary20261209a.htm\n\nLink kiểm tra dữ liệu 
+ khi công bố:\n- https://www.federalreserve.gov/monetarypolicy/fomccal
+ endars.htm\n- https://www.investing.com/economic-calendar/interest-rate-
+ decision-168\n- https://www.cmegroup.com/markets/interest-rates/cme-fedw
+ atch-tool.html\n- Lịch tổng hợp (ForexFactory): https://www.forexf
+ actory.com/calendar
+CATEGORIES:XAUUSD,CAO
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🔴 FOMC: Quyết định lãi suất + Tuyên
+  bố + DỰ BÁO KINH TẾ (SEP\, dot plot) 14:00 ET + Họp báo Warsh
+  14:30 ET
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Còn 15 phút: 🔴 FOMC: Quyết định lãi suất + Tuyê
+ n bố + DỰ BÁO KINH TẾ (SEP\, dot plot) 14:00 ET + Họp báo Wars
+ h 14:30 ET
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5e35919e7438ccdf124d28802d8d70e9@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261210T133000Z
+DTEND:20261210T140000Z
+SUMMARY:🔴 CPI T11 (Mỹ) + CPI lõi + Đơn thất nghiệp
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: CAO\nGiờ VN: 20:30 Thứ
+  Năm 10/12/2026\nGiờ gốc: 08:30 (America/New_York)\n\n• CPI T11 (
+ Mỹ) + CPI lõi + Đơn thất nghiệp\n  Ghi chú: Ngay sau FOMC → 
+ củng cố hoặc đảo chiều phản ứng của vàng.\n\nLink ki
+ ểm tra dữ liệu khi công bố:\n- https://www.bls.gov/news.release
+ /cpi.nr0.htm\n- https://www.investing.com/economic-calendar/cpi-69\n- ht
+ tps://www.investing.com/economic-calendar/core-cpi-56\n- https://www.inv
+ esting.com/economic-calendar/initial-jobless-claims-294\n- Lịch tổng
+  hợp (ForexFactory): https://www.forexfactory.com/calendar
+CATEGORIES:XAUUSD,CAO
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🔴 CPI T11 (Mỹ) + CPI lõi + Đơn thất n
+ ghiệp
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Còn 15 phút: 🔴 CPI T11 (Mỹ) + CPI lõi + Đơn thất 
+ nghiệp
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:39409c5833e1751524fcdc0b714cfd89@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261211T150000Z
+DTEND:20261211T153000Z
+SUMMARY:🟠 Tâm lý tiêu dùng Michigan T12 (sơ bộ) (ngày cần x
+ ác nhận)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: Trung bình\nGiờ VN: 22:
+ 00 Thứ Sáu 11/12/2026\nGiờ gốc: 10:00 (America/New_York)\n\n• T
+ âm lý tiêu dùng Michigan T12 (sơ bộ)\n  Ghi chú: Ngày ước t
+ ính.\n  ⚠ Ngày theo quy luật/lịch bên thứ 3 — kiểm tra l
+ ại trước 1 tuần.\n\nLink kiểm tra dữ liệu khi công bố:\n
+ - https://www.sca.isr.umich.edu/\n- https://www.investing.com/economic-c
+ alendar/michigan-consumer-sentiment-320\n- Lịch tổng hợp (ForexFac
+ tory): https://www.forexfactory.com/calendar
+CATEGORIES:XAUUSD,TB
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🟠 Tâm lý tiêu dùng Michigan T12 (sơ b
+ ộ) (ngày cần xác nhận)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e81be05a775780b92ce6d57219a1cd4a@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261215T133000Z
+DTEND:20261215T140000Z
+SUMMARY:🔴 PPI T11 (Mỹ)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: CAO\nGiờ VN: 20:30 Thứ
+  Ba 15/12/2026\nGiờ gốc: 08:30 (America/New_York)\n\n• PPI T11 (M
+ ỹ)\n\nLink kiểm tra dữ liệu khi công bố:\n- https://www.bls.g
+ ov/news.release/ppi.nr0.htm\n- https://www.investing.com/economic-calend
+ ar/ppi-238\n- Lịch tổng hợp (ForexFactory): https://www.forexfacto
+ ry.com/calendar
+CATEGORIES:XAUUSD,CAO
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🔴 PPI T11 (Mỹ)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Còn 15 phút: 🔴 PPI T11 (Mỹ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:285ca43ab45133339b2534de21ba2a90@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261216T133000Z
+DTEND:20261216T140000Z
+SUMMARY:🔴 Doanh số bán lẻ T11 (Mỹ)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: CAO\nGiờ VN: 20:30 Thứ
+  Tư 16/12/2026\nGiờ gốc: 08:30 (America/New_York)\n\n• Doanh số
+  bán lẻ T11 (Mỹ)\n\nLink kiểm tra dữ liệu khi công bố:\n- 
+ https://www.census.gov/retail/sales.html\n- https://www.investing.com/ec
+ onomic-calendar/retail-sales-256\n- Lịch tổng hợp (ForexFactory): 
+ https://www.forexfactory.com/calendar
+CATEGORIES:XAUUSD,CAO
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🔴 Doanh số bán lẻ T11 (Mỹ)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Còn 15 phút: 🔴 Doanh số bán lẻ T11 (Mỹ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b9f6894be322b90b01aafff47462e22e@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261217T120000Z
+DTEND:20261217T123000Z
+SUMMARY:🟠 BoE: Quyết định lãi suất
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: Trung bình\nGiờ VN: 19:
+ 00 Thứ Năm 17/12/2026\nGiờ gốc: 12:00 (Europe/London)\n\n• BoE:
+  Quyết định lãi suất\n\nLink kiểm tra dữ liệu khi công b
+ ố:\n- https://www.bankofengland.co.uk/monetary-policy-summary-and-minu
+ tes\n- Lịch tổng hợp (ForexFactory): https://www.forexfactory.com/
+ calendar
+CATEGORIES:XAUUSD,TB
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🟠 BoE: Quyết định lãi suất
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:49c41357550bfaf34c040602e31ca996@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261217T131500Z
+DTEND:20261217T144500Z
+SUMMARY:🟠 ECB: Quyết định lãi suất (14:15 CET) + Họp báo 14
+ :45 CET + Dự báo vĩ mô mới
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: Trung bình\nGiờ VN: 20:
+ 15 Thứ Năm 17/12/2026\nGiờ gốc: 14:15 (Europe/Berlin)\n\n• ECB:
+  Quyết định lãi suất (14:15 CET) + Họp báo 14:45 CET + Dự b
+ áo vĩ mô mới\n\nLink kiểm tra dữ liệu khi công bố:\n- http
+ s://www.ecb.europa.eu/press/pr/date/html/index.en.html\n- https://www.in
+ vesting.com/economic-calendar/interest-rate-decision-164\n- Lịch tổn
+ g hợp (ForexFactory): https://www.forexfactory.com/calendar
+CATEGORIES:XAUUSD,TB
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🟠 ECB: Quyết định lãi suất (14:15 CE
+ T) + Họp báo 14:45 CET + Dự báo vĩ mô mới
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:70d2d2775ae7dc005c8e108a3057d7e9@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261217T133000Z
+DTEND:20261217T140000Z
+SUMMARY:🟠 Đơn xin trợ cấp thất nghiệp lần đầu (Mỹ)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: Trung bình\nGiờ VN: 20:
+ 30 Thứ Năm 17/12/2026\nGiờ gốc: 08:30 (America/New_York)\n\n• 
+ Đơn xin trợ cấp thất nghiệp lần đầu (Mỹ)\n\nLink kiểm
+  tra dữ liệu khi công bố:\n- https://www.dol.gov/ui/data.pdf\n- h
+ ttps://www.investing.com/economic-calendar/initial-jobless-claims-294\n-
+  Lịch tổng hợp (ForexFactory): https://www.forexfactory.com/calend
+ ar
+CATEGORIES:XAUUSD,TB
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🟠 Đơn xin trợ cấp thất nghiệp lầ
+ n đầu (Mỹ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5433fad33456d40e69681e8944481a66@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261218T023000Z
+DTEND:20261218T030000Z
+SUMMARY:🟠 BoJ: Quyết định chính sách tiền tệ
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: Trung bình\nGiờ VN: 09:
+ 30 Thứ Sáu 18/12/2026\nGiờ gốc: 11:30 (Asia/Tokyo)\n\n• BoJ: Qu
+ yết định chính sách tiền tệ\n  Ghi chú: Thường 11:30–12
+ :30 JST (≈ 09:30–10:30 VN). Họp báo 15:30 JST.\n\nLink kiểm tra
+  dữ liệu khi công bố:\n- https://www.boj.or.jp/en/mopo/mpmdeci/in
+ dex.htm\n- Lịch tổng hợp (ForexFactory): https://www.forexfactory.
+ com/calendar
+CATEGORIES:XAUUSD,TB
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🟠 BoJ: Quyết định chính sách tiền t
+ ệ
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a98aa914bb56cf47e6f73010f2ab7aaf@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261223T133000Z
+DTEND:20261223T140000Z
+SUMMARY:🔴 GDP Q3/2026 (ước tính lần 3) + PCE lõi T11 (Mỹ)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: CAO\nGiờ VN: 20:30 Thứ
+  Tư 23/12/2026\nGiờ gốc: 08:30 (America/New_York)\n\n• GDP Q3/202
+ 6 (ước tính lần 3) + PCE lõi T11 (Mỹ)\n  Ghi chú: Dữ liệu 
+ lớn cuối cùng của năm\; thanh khoản mỏng dịp Giáng sinh.\
+ n\nLink kiểm tra dữ liệu khi công bố:\n- https://www.bea.gov/da
+ ta/gdp/gross-domestic-product\n- https://www.bea.gov/data/income-saving/
+ personal-income\n- https://www.investing.com/economic-calendar/core-pce-
+ price-index-61\n- Lịch tổng hợp (ForexFactory): https://www.forexf
+ actory.com/calendar
+CATEGORIES:XAUUSD,CAO
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🔴 GDP Q3/2026 (ước tính lần 3) + PCE l
+ õi T11 (Mỹ)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Còn 15 phút: 🔴 GDP Q3/2026 (ước tính lần 3) + PCE 
+ lõi T11 (Mỹ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b591e325c44565eadbf28319305af673@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261223T150000Z
+DTEND:20261223T153000Z
+SUMMARY:🟠 Tâm lý tiêu dùng Michigan T12 (chính thức) (ngày c
+ ần xác nhận)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: Trung bình\nGiờ VN: 22:
+ 00 Thứ Tư 23/12/2026\nGiờ gốc: 10:00 (America/New_York)\n\n• T
+ âm lý tiêu dùng Michigan T12 (chính thức)\n  Ghi chú: Ngày ư
+ ớc tính.\n  ⚠ Ngày theo quy luật/lịch bên thứ 3 — kiểm 
+ tra lại trước 1 tuần.\n\nLink kiểm tra dữ liệu khi công b
+ ố:\n- https://www.sca.isr.umich.edu/\n- https://www.investing.com/econ
+ omic-calendar/michigan-consumer-sentiment-320\n- Lịch tổng hợp (Fo
+ rexFactory): https://www.forexfactory.com/calendar
+CATEGORIES:XAUUSD,TB
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🟠 Tâm lý tiêu dùng Michigan T12 (chính 
+ thức) (ngày cần xác nhận)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64a9d62797cd9debb4ac1f5fa841b6a3@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261224T133000Z
+DTEND:20261224T140000Z
+SUMMARY:🟠 Đơn xin trợ cấp thất nghiệp lần đầu (Mỹ) (n
+ gày cần xác nhận)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: Trung bình\nGiờ VN: 20:
+ 30 Thứ Năm 24/12/2026\nGiờ gốc: 08:30 (America/New_York)\n\n• 
+ Đơn xin trợ cấp thất nghiệp lần đầu (Mỹ)\n  Ghi chú: C
+ ó thể dời sang 23/12 nếu Chính phủ Mỹ nghỉ 24/12. Thị tr
+ ường Mỹ đóng cửa sớm 13:00 ET.\n  ⚠ Ngày theo quy luật/l
+ ịch bên thứ 3 — kiểm tra lại trước 1 tuần.\n\nLink kiể
+ m tra dữ liệu khi công bố:\n- https://www.dol.gov/ui/data.pdf\n- 
+ https://www.investing.com/economic-calendar/initial-jobless-claims-294\n
+ - https://www.nyse.com/markets/hours-calendars\n- Lịch tổng hợp (F
+ orexFactory): https://www.forexfactory.com/calendar
+CATEGORIES:XAUUSD,TB
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🟠 Đơn xin trợ cấp thất nghiệp lầ
+ n đầu (Mỹ) (ngày cần xác nhận)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2a4cb2ed6612719eeda060aea6aca42b@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:⚪ Giáng sinh — thị trường Mỹ/Âu đóng cửa
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: Thông tin\nThời gian: c
+ ả ngày (không có giờ cố định)\n\n• Giáng sinh — thị t
+ rường Mỹ/Âu đóng cửa\n\nLink kiểm tra dữ liệu khi công 
+ bố:\n- https://www.nyse.com/markets/hours-calendars\n- Lịch tổng h
+ ợp (ForexFactory): https://www.forexfactory.com/calendar
+CATEGORIES:XAUUSD,INFO
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:85fe385b27a722d33f38e7658ad4a226@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261229T150000Z
+DTEND:20261229T153000Z
+SUMMARY:🟠 Niềm tin tiêu dùng Conference Board T12 (Mỹ) (ngày c
+ ần xác nhận)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: Trung bình\nGiờ VN: 22:
+ 00 Thứ Ba 29/12/2026\nGiờ gốc: 10:00 (America/New_York)\n\n• Ni
+ ềm tin tiêu dùng Conference Board T12 (Mỹ)\n  Ghi chú: Ngày ư
+ ớc tính.\n  ⚠ Ngày theo quy luật/lịch bên thứ 3 — kiểm 
+ tra lại trước 1 tuần.\n\nLink kiểm tra dữ liệu khi công b
+ ố:\n- https://www.conference-board.org/research/consumer-confidence\n-
+  https://www.investing.com/economic-calendar/cb-consumer-confidence-48\n
+ - Lịch tổng hợp (ForexFactory): https://www.forexfactory.com/calen
+ dar
+CATEGORIES:XAUUSD,TB
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🟠 Niềm tin tiêu dùng Conference Board T1
+ 2 (Mỹ) (ngày cần xác nhận)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:117b7ed31bd98a25464cba84a85a5b1e@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART:20261231T133000Z
+DTEND:20261231T140000Z
+SUMMARY:🟠 Đơn xin trợ cấp thất nghiệp lần đầu (Mỹ)
+DESCRIPTION:Mức ảnh hưởng tới XAUUSD: Trung bình\nGiờ VN: 20:
+ 30 Thứ Năm 31/12/2026\nGiờ gốc: 08:30 (America/New_York)\n\n• 
+ Đơn xin trợ cấp thất nghiệp lần đầu (Mỹ)\n\nLink kiểm
+  tra dữ liệu khi công bố:\n- https://www.dol.gov/ui/data.pdf\n- h
+ ttps://www.investing.com/economic-calendar/initial-jobless-claims-294\n-
+  Lịch tổng hợp (ForexFactory): https://www.forexfactory.com/calend
+ ar
+CATEGORIES:XAUUSD,TB
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Còn 1 giờ: 🟠 Đơn xin trợ cấp thất nghiệp lầ
+ n đầu (Mỹ)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d2af90e5909a62050a32229eb3d83e0d@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261128
+SUMMARY:🟡 CỬA SỔ FED SPEAKERS: quan chức Fed phát biểu dày 
+ đặc (sau FOMC 28/10\, trước blackout 28/11)
+DESCRIPTION:Mức: Cửa sổ cần cảnh giác (nhiều ngày)\nTừ 30
+ /10/2026 đến hết 27/11/2026\n\n• CỬA SỔ FED SPEAKERS: quan ch
+ ức Fed phát biểu dày đặc (sau FOMC 28/10\, trước blackout 28
+ /11)\n  Ghi chú: Đậm đặc nhất 7–10 ngày đầu. Kiểm tra l
+ ịch Fed mỗi thứ Sáu hoặc bật thông báo app Investing/ForexF
+ actory (lọc USD\, Fed speakers).\n\nLink theo dõi:\n- https://www.fed
+ eralreserve.gov/newsevents/calendar.htm\n- https://www.federalreserve.go
+ v/feeds/speeches.xml\n- https://www.forexfactory.com/calendar
+CATEGORIES:XAUUSD,WINDOW
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Bắt đầu 🟡 CỬA SỔ FED SPEAKERS: quan chức Fed ph
+ át biểu dày đặc (sau FOMC 28/10\, trước blackout 28/11)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7385b16afe73aa9ac06c7685a064dd04@macro-xauusd
+DTSTAMP:20261016T095756Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20270116
+SUMMARY:🟡 CỬA SỔ FED SPEAKERS: sau FOMC 09/12\, đến trước bl
+ ackout họp cuối tháng 1/2027
+DESCRIPTION:Mức: Cửa sổ cần cảnh giác (nhiều ngày)\nTừ 11
+ /12/2026 đến hết 15/01/2027\n\n• CỬA SỔ FED SPEAKERS: sau FOM
+ C 09/12\, đến trước blackout họp cuối tháng 1/2027\n  Ghi ch
+ ú: Thanh khoản mỏng cuối năm → phát biểu Fed dễ gây bi
+ ến động lớn hơn bình thường.\n\nLink theo dõi:\n- https://w
+ ww.federalreserve.gov/newsevents/calendar.htm\n- https://www.federalrese
+ rve.gov/feeds/speeches.xml\n- https://www.forexfactory.com/calendar
+CATEGORIES:XAUUSD,WINDOW
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:Bắt đầu 🟡 CỬA SỔ FED SPEAKERS: sau FOMC 09/12\, 
+ đến trước blackout họp cuối tháng 1/2027
+END:VALARM
+END:VEVENT
+END:VCALENDAR
