@@ -22,7 +22,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           # bỏ qua nếu khác biệt duy nhất là DTSTAMP trong .ics
-          if git diff --quiet -- events_dynamic.json sources LICH_VI_MO_XAUUSD.md events_q4_2026.py; then
+          if git diff --quiet -I '^FETCHED:' -- events_dynamic.json sources LICH_VI_MO_XAUUSD.md events_q4_2026.py; then
             echo "Không có thay đổi nội dung, bỏ qua commit."; git checkout -- macro_xauusd.ics; exit 0
           fi
           git add -A
