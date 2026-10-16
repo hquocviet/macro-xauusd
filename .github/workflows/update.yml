@@ -1,0 +1,30 @@
+name: Update macro XAUUSD calendar
+
+on:
+  schedule:
+    - cron: "0 10 * * *"        # hàng ngày 10:00 UTC = 17:00 giờ VN
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch Fed calendar JSON + snapshots
+        run: python3 fetch_sources.py
+      - name: Build ICS + markdown
+        run: python3 build_ics.py
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # bỏ qua nếu khác biệt duy nhất là DTSTAMP trong .ics
+          if git diff --quiet -- events_dynamic.json sources LICH_VI_MO_XAUUSD.md events_q4_2026.py; then
+            echo "Không có thay đổi nội dung, bỏ qua commit."; git checkout -- macro_xauusd.ics; exit 0
+          fi
+          git add -A
+          git commit -m "auto: cập nhật lịch Fed speakers + snapshots $(date -u +%Y-%m-%d)"
+          git push
