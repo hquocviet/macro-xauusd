@@ -43,3 +43,4 @@ python3 build_ics.py --no-info          # bỏ ngày nghỉ lễ/đổi giờ
 Mức ảnh hưởng: 🔴 CAO (FOMC, NFP, CPI, PCE lõi, GDP sơ bộ, ISM, PPI, bán lẻ, bầu cử),
 🟠 TRUNG BÌNH (claims, ADP, JOLTS, Michigan, CB, ECI, biên bản FOMC, ECB/BoJ/BoE, PBoC gold),
 🟡 cửa sổ nhiều ngày cần cảnh giác (Fed speakers), ⚪ thông tin (nghỉ lễ, đổi giờ).
+# macro-xauusd
