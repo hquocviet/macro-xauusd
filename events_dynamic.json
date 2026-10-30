@@ -1,1 +1,15 @@
-[]
+[
+ {
+  "date": "2026-11-06",
+  "time": "12:15",
+  "tz": "America/New_York",
+  "impact": "TB",
+  "title": "Fed: Phó Chủ tịch Fed (Giám sát) Michelle W. Bowman — Thảo luận (có hỏi đáp): Supervision and Regulation",
+  "note": "At the University of Mississippi Banking and Finance Symposium, Oxford, Miss.. Giờ gốc ET theo lịch Fed.",
+  "links": [
+   "https://www.federalreserve.gov/newsevents/calendar.htm"
+  ],
+  "verified": true,
+  "source": "fed_json"
+ }
+]
