@@ -7,7 +7,103 @@
   "title": "Fed: Phó Chủ tịch Fed (Giám sát) Michelle W. Bowman — Thảo luận (có hỏi đáp): Supervision and Regulation",
   "note": "At the University of Mississippi Banking and Finance Symposium, Oxford, Miss.. Giờ gốc ET theo lịch Fed.",
   "links": [
+   "https://www.federalreserve.gov/newsevents/calendar.htm",
+   "https://olemiss.zoom.us/j/83516188915?pwd=wHQgE4aZSqUdn2oBqJ93yHDWHT56cY.1&from=addon"
+  ],
+  "verified": true,
+  "source": "fed_json"
+ },
+ {
+  "date": "2026-11-09",
+  "time": "08:40",
+  "tz": "America/New_York",
+  "impact": "TB",
+  "title": "Fed: Phó Chủ tịch Fed (Giám sát) Michelle W. Bowman — Thảo luận (có hỏi đáp): Community Banking",
+  "note": "At the Mutual Board Summit Conference, Boston, Mass.. Giờ gốc ET theo lịch Fed.",
+  "links": [
    "https://www.federalreserve.gov/newsevents/calendar.htm"
+  ],
+  "verified": true,
+  "source": "fed_json"
+ },
+ {
+  "date": "2026-11-10",
+  "time": "04:00",
+  "tz": "America/New_York",
+  "impact": "TB",
+  "title": "Fed: Thống đốc Fed Christopher J. Waller — Phát biểu: Economic Outlook",
+  "note": "At The Bank of England and its Watchers Conference 2026, London, United Kingdom. Giờ gốc ET theo lịch Fed.",
+  "links": [
+   "https://www.federalreserve.gov/newsevents/calendar.htm",
+   "https://teams.microsoft.com/meet/3555893727932509?p=Jzb3qhkJr8SKStNZlD"
+  ],
+  "verified": true,
+  "source": "fed_json"
+ },
+ {
+  "date": "2026-11-10",
+  "time": "15:30",
+  "tz": "America/New_York",
+  "impact": "TB",
+  "title": "Fed: Phó Chủ tịch Fed (Giám sát) Michelle W. Bowman — Phát biểu: Economic Outlook",
+  "note": "At the C. Peter McColough Series on International Economics with Michelle Bowman, Washington, D.C.. Giờ gốc ET theo lịch Fed.",
+  "links": [
+   "https://www.federalreserve.gov/newsevents/calendar.htm"
+  ],
+  "verified": true,
+  "source": "fed_json"
+ },
+ {
+  "date": "2026-11-10",
+  "time": "18:30",
+  "tz": "America/New_York",
+  "impact": "TB",
+  "title": "Fed: Phó Chủ tịch Fed (Giám sát) Michelle W. Bowman — Phát biểu: Economic Outlook",
+  "note": "At A View from the Federal Reserve Board (virtual). Giờ gốc ET theo lịch Fed.",
+  "links": [
+   "https://www.federalreserve.gov/newsevents/calendar.htm",
+   "https://us06web.zoom.us/j/82913231287?pwd=LVtmihv49gUcWXnQz4q9by5b5aixiP.1"
+  ],
+  "verified": true,
+  "source": "fed_json"
+ },
+ {
+  "date": "2026-11-12",
+  "time": "10:00",
+  "tz": "America/New_York",
+  "impact": "TB",
+  "title": "Fed: Thống đốc Fed Michael S. Barr — Phát biểu: Artificial Intelligence and Inequality",
+  "note": "At A Conversation with Michael S. Barr (virtual). Giờ gốc ET theo lịch Fed.",
+  "links": [
+   "https://www.federalreserve.gov/newsevents/calendar.htm",
+   "https://youtube.com/live/O2NvR1shSI0?feature=share"
+  ],
+  "verified": true,
+  "source": "fed_json"
+ },
+ {
+  "date": "2026-11-13",
+  "time": "10:50",
+  "tz": "America/New_York",
+  "impact": "TB",
+  "title": "Fed: Phó Chủ tịch Fed (Giám sát) Michelle W. Bowman — Thảo luận (có hỏi đáp): Supervision and Regulation",
+  "note": "At the Connecticut Bankers Association Annual Meeting and Conference 2026 (virtual). Giờ gốc ET theo lịch Fed.",
+  "links": [
+   "https://www.federalreserve.gov/newsevents/calendar.htm"
+  ],
+  "verified": true,
+  "source": "fed_json"
+ },
+ {
+  "date": "2026-11-13",
+  "time": "19:00",
+  "tz": "America/New_York",
+  "impact": "TB",
+  "title": "Fed: Phó Chủ tịch Fed Philip N. Jefferson — Phát biểu: New Technology, Old Questions: Assessing Productivity Puzzles and Their Implications for Macroeconomic Activity",
+  "note": "At the University of California San Diego Economics Roundtable, La Jolla, Calif.. Giờ gốc ET theo lịch Fed.",
+  "links": [
+   "https://www.federalreserve.gov/newsevents/calendar.htm",
+   "https://cvent.me/8AmwNV"
   ],
   "verified": true,
   "source": "fed_json"
