@@ -1,18 +1,5 @@
 [
  {
-  "date": "2026-11-09",
-  "time": "08:40",
-  "tz": "America/New_York",
-  "impact": "TB",
-  "title": "Fed: Phó Chủ tịch Fed (Giám sát) Michelle W. Bowman — Thảo luận (có hỏi đáp): Community Banking",
-  "note": "At the Mutual Board Summit Conference, Boston, Mass.. Giờ gốc ET theo lịch Fed.",
-  "links": [
-   "https://www.federalreserve.gov/newsevents/calendar.htm"
-  ],
-  "verified": true,
-  "source": "fed_json"
- },
- {
   "date": "2026-11-10",
   "time": "04:00",
   "tz": "America/New_York",
@@ -34,7 +21,8 @@
   "title": "Fed: Phó Chủ tịch Fed (Giám sát) Michelle W. Bowman — Phát biểu: Economic Outlook",
   "note": "At the C. Peter McColough Series on International Economics with Michelle Bowman, Washington, D.C.. Giờ gốc ET theo lịch Fed.",
   "links": [
-   "https://www.federalreserve.gov/newsevents/calendar.htm"
+   "https://www.federalreserve.gov/newsevents/calendar.htm",
+   "https://youtube.com/live/uLrEW7SeMKU?feature=share"
   ],
   "verified": true,
   "source": "fed_json"
