@@ -1,47 +1,5 @@
 [
  {
-  "date": "2026-11-10",
-  "time": "04:00",
-  "tz": "America/New_York",
-  "impact": "TB",
-  "title": "Fed: Thống đốc Fed Christopher J. Waller — Phát biểu: Economic Outlook",
-  "note": "At The Bank of England and its Watchers Conference 2026, London, United Kingdom. Giờ gốc ET theo lịch Fed.",
-  "links": [
-   "https://www.federalreserve.gov/newsevents/calendar.htm",
-   "https://teams.microsoft.com/meet/3555893727932509?p=Jzb3qhkJr8SKStNZlD"
-  ],
-  "verified": true,
-  "source": "fed_json"
- },
- {
-  "date": "2026-11-10",
-  "time": "15:30",
-  "tz": "America/New_York",
-  "impact": "TB",
-  "title": "Fed: Phó Chủ tịch Fed (Giám sát) Michelle W. Bowman — Phát biểu: Economic Outlook",
-  "note": "At the C. Peter McColough Series on International Economics with Michelle Bowman, Washington, D.C.. Giờ gốc ET theo lịch Fed.",
-  "links": [
-   "https://www.federalreserve.gov/newsevents/calendar.htm",
-   "https://youtube.com/live/uLrEW7SeMKU?feature=share"
-  ],
-  "verified": true,
-  "source": "fed_json"
- },
- {
-  "date": "2026-11-10",
-  "time": "18:30",
-  "tz": "America/New_York",
-  "impact": "TB",
-  "title": "Fed: Phó Chủ tịch Fed (Giám sát) Michelle W. Bowman — Phát biểu: Economic Outlook",
-  "note": "At A View from the Federal Reserve Board (virtual). Giờ gốc ET theo lịch Fed.",
-  "links": [
-   "https://www.federalreserve.gov/newsevents/calendar.htm",
-   "https://us06web.zoom.us/j/82913231287?pwd=LVtmihv49gUcWXnQz4q9by5b5aixiP.1"
-  ],
-  "verified": true,
-  "source": "fed_json"
- },
- {
   "date": "2026-11-12",
   "time": "10:00",
   "tz": "America/New_York",
