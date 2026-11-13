@@ -1,19 +1,5 @@
 [
  {
-  "date": "2026-11-12",
-  "time": "10:00",
-  "tz": "America/New_York",
-  "impact": "TB",
-  "title": "Fed: Thống đốc Fed Michael S. Barr — Phát biểu: Artificial Intelligence and Inequality",
-  "note": "At A Conversation with Michael S. Barr (virtual). Giờ gốc ET theo lịch Fed.",
-  "links": [
-   "https://www.federalreserve.gov/newsevents/calendar.htm",
-   "https://youtube.com/live/O2NvR1shSI0?feature=share"
-  ],
-  "verified": true,
-  "source": "fed_json"
- },
- {
   "date": "2026-11-13",
   "time": "10:50",
   "tz": "America/New_York",
@@ -21,7 +7,8 @@
   "title": "Fed: Phó Chủ tịch Fed (Giám sát) Michelle W. Bowman — Thảo luận (có hỏi đáp): Supervision and Regulation",
   "note": "At the Connecticut Bankers Association Annual Meeting and Conference 2026 (virtual). Giờ gốc ET theo lịch Fed.",
   "links": [
-   "https://www.federalreserve.gov/newsevents/calendar.htm"
+   "https://www.federalreserve.gov/newsevents/calendar.htm",
+   "https://us06web.zoom.us/j/81123215463"
   ],
   "verified": true,
   "source": "fed_json"
@@ -36,6 +23,102 @@
   "links": [
    "https://www.federalreserve.gov/newsevents/calendar.htm",
    "https://cvent.me/8AmwNV"
+  ],
+  "verified": true,
+  "source": "fed_json"
+ },
+ {
+  "date": "2026-11-16",
+  "time": "05:00",
+  "tz": "America/New_York",
+  "impact": "TB",
+  "title": "Fed: Thống đốc Fed Michael S. Barr — Phát biểu: Artificial Intelligence and Financial Stability",
+  "note": "At the 7th ACM International Conference on AI in Finance, Milan, Italy. Giờ gốc ET theo lịch Fed.",
+  "links": [
+   "https://www.federalreserve.gov/newsevents/calendar.htm",
+   "https://us06web.zoom.us/j/84433320946?pwd=zq5qHzI0IgCBc7QKytDbJ5X90yXZKC.1"
+  ],
+  "verified": true,
+  "source": "fed_json"
+ },
+ {
+  "date": "2026-11-16",
+  "time": "12:00",
+  "tz": "America/New_York",
+  "impact": "CAO",
+  "title": "Fed: Chủ tịch Fed Kevin Warsh — Phát biểu: Opening Remarks",
+  "note": "At the Federal Reserve’s Productivity and Jobs Task Force Conference, Federal Reserve Bank of San Francisco, San Francisco, Calif.. Giờ gốc ET theo lịch Fed.",
+  "links": [
+   "https://www.federalreserve.gov/newsevents/calendar.htm",
+   "https://www.frbsf.org/news-and-media/events/2026/11/productivity-and-jobs-task-force-conference/"
+  ],
+  "verified": true,
+  "source": "fed_json"
+ },
+ {
+  "date": "2026-11-17",
+  "time": "09:10",
+  "tz": "America/New_York",
+  "impact": "TB",
+  "title": "Fed: Thống đốc Fed Christopher J. Waller — Phát biểu: Payments",
+  "note": "At The Clearing House (TCH) Annual Conference, New York, N.Y.. Giờ gốc ET theo lịch Fed.",
+  "links": [
+   "https://www.federalreserve.gov/newsevents/calendar.htm",
+   "https://avdusa.zoom.us/j/81071533579"
+  ],
+  "verified": true,
+  "source": "fed_json"
+ },
+ {
+  "date": "2026-11-18",
+  "time": "13:35",
+  "tz": "America/New_York",
+  "impact": "TB",
+  "title": "Fed: Thống đốc Fed Michael S. Barr — Phát biểu: Community Development Investments",
+  "note": "At Making Missing Markets: Catalyzing Capital and Igniting Innovation, Federal Reserve Bank of New York, New York, N.Y.. Giờ gốc ET theo lịch Fed.",
+  "links": [
+   "https://www.federalreserve.gov/newsevents/calendar.htm",
+   "https://web.cvent.com/event/c6c9732e-65f1-42c9-8b92-fd955396ec06/register?rp=276284ef-6a44-4895-b452-f3b63709581b"
+  ],
+  "verified": true,
+  "source": "fed_json"
+ },
+ {
+  "date": "2026-11-19",
+  "time": "14:15",
+  "tz": "America/New_York",
+  "impact": "TB",
+  "title": "Fed: Thống đốc Fed Michael S. Barr — Thảo luận (có hỏi đáp): Artificial Intelligence",
+  "note": "At the FinRegLab 2026 AI Symposium, Washington, D.C.. Giờ gốc ET theo lịch Fed.",
+  "links": [
+   "https://www.federalreserve.gov/newsevents/calendar.htm",
+   "https://aisymposium.finreglab.org/press"
+  ],
+  "verified": true,
+  "source": "fed_json"
+ },
+ {
+  "date": "2026-11-20",
+  "time": "08:25",
+  "tz": "America/New_York",
+  "impact": "TB",
+  "title": "Fed: Thống đốc Fed Christopher J. Waller — Phát biểu: Welcoming Remarks",
+  "note": "At the College Fed Challenge Finals. Giờ gốc ET theo lịch Fed.",
+  "links": [
+   "https://www.federalreserve.gov/newsevents/calendar.htm"
+  ],
+  "verified": true,
+  "source": "fed_json"
+ },
+ {
+  "date": "2026-11-20",
+  "time": "12:15",
+  "tz": "America/New_York",
+  "impact": "TB",
+  "title": "Fed: Thống đốc Fed Lisa D. Cook — Phát biểu: The U.S. Economy in Global Context",
+  "note": "At the Annual Conference of the Central Bank of Chile, Santiago, Chile. Giờ gốc ET theo lịch Fed.",
+  "links": [
+   "https://www.federalreserve.gov/newsevents/calendar.htm"
   ],
   "verified": true,
   "source": "fed_json"
