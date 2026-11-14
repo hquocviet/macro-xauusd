@@ -1,33 +1,5 @@
 [
  {
-  "date": "2026-11-13",
-  "time": "10:50",
-  "tz": "America/New_York",
-  "impact": "TB",
-  "title": "Fed: Phó Chủ tịch Fed (Giám sát) Michelle W. Bowman — Thảo luận (có hỏi đáp): Supervision and Regulation",
-  "note": "At the Connecticut Bankers Association Annual Meeting and Conference 2026 (virtual). Giờ gốc ET theo lịch Fed.",
-  "links": [
-   "https://www.federalreserve.gov/newsevents/calendar.htm",
-   "https://us06web.zoom.us/j/81123215463"
-  ],
-  "verified": true,
-  "source": "fed_json"
- },
- {
-  "date": "2026-11-13",
-  "time": "19:00",
-  "tz": "America/New_York",
-  "impact": "TB",
-  "title": "Fed: Phó Chủ tịch Fed Philip N. Jefferson — Phát biểu: New Technology, Old Questions: Assessing Productivity Puzzles and Their Implications for Macroeconomic Activity",
-  "note": "At the University of California San Diego Economics Roundtable, La Jolla, Calif.. Giờ gốc ET theo lịch Fed.",
-  "links": [
-   "https://www.federalreserve.gov/newsevents/calendar.htm",
-   "https://cvent.me/8AmwNV"
-  ],
-  "verified": true,
-  "source": "fed_json"
- },
- {
   "date": "2026-11-16",
   "time": "05:00",
   "tz": "America/New_York",
@@ -79,6 +51,19 @@
   "links": [
    "https://www.federalreserve.gov/newsevents/calendar.htm",
    "https://web.cvent.com/event/c6c9732e-65f1-42c9-8b92-fd955396ec06/register?rp=276284ef-6a44-4895-b452-f3b63709581b"
+  ],
+  "verified": true,
+  "source": "fed_json"
+ },
+ {
+  "date": "2026-11-19",
+  "time": "09:25",
+  "tz": "America/New_York",
+  "impact": "TB",
+  "title": "Fed: Phó Chủ tịch Fed Philip N. Jefferson — Thảo luận (có hỏi đáp): Economic Shocks",
+  "note": "At the International Monetary Fund (IMF) and Central Bank of Brazil conference \"A Quarter Century of Inflation Targeting in Latin America: Progress, Challenges, and the Road Ahead\" (virtual). Giờ gốc ET theo lịch Fed.",
+  "links": [
+   "https://www.federalreserve.gov/newsevents/calendar.htm"
   ],
   "verified": true,
   "source": "fed_json"
