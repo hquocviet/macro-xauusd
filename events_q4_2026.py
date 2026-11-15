@@ -56,6 +56,10 @@ L = {
     "fed_calendar": "https://www.federalreserve.gov/newsevents/calendar.htm",
     "fed_speeches_rss": "https://www.federalreserve.gov/feeds/speeches.xml",
     "nyse": "https://www.nyse.com/markets/hours-calendars",
+    "ipo_nasdaq": "https://www.nasdaq.com/market-activity/ipos",
+    "ant_edgar": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2130357&type=S-1",
+    "nq_inv": "https://www.investing.com/indices/nq-100-futures",
+    "us10y_inv": "https://www.investing.com/rates-bonds/u.s.-10-year-bond-yield",
 }
 
 # Mỗi phần tử: (date, time|None, tz, impact, title, note, links, verified)
@@ -116,7 +120,17 @@ EVENTS = [
     ("2026-11-18", "14:00", NY, "TB", "Biên bản họp FOMC (cuộc họp 27–28/10)",
      "Ngày suy ra từ quy tắc '3 tuần sau quyết định' của Fed; Fed chưa niêm yết chính thức.",
      ["fomc_cal", "fomc_min_inv"], False),
+    ("2026-11-18", "16:00", NY, "TB", "Anthropic IPO (ANT, Nasdaq): chốt giá sau giờ đóng cửa Mỹ — khoảng giá 70–78 USD, huy động ~58–64 tỷ USD",
+     "Ngày theo nguồn tin CNBC, S-1 không ghi ngày; giờ 16:00 ET chỉ là mốc đóng cửa, kết quả thường có trong vài giờ sau (sáng 19/11 VN). "
+     "Tác động tới vàng là GIÁN TIẾP qua tâm lý rủi ro: chốt dưới 70 hoặc hoãn = tín hiệu risk-off cho nhóm AI/Nasdaq; "
+     "chốt trên 78 = risk-on. Xem NQ futures, US10Y, DXY trong phiên Á.",
+     ["ipo_nasdaq", "ant_edgar", "nq_inv", "us10y_inv"], False),
     ("2026-11-19", "08:30", NY, "TB", "Đơn xin trợ cấp thất nghiệp lần đầu (Mỹ)", "", ["claims_dol", "claims_inv"], True),
+    ("2026-11-19", "09:30", NY, "TB", "Anthropic IPO (ANT): ngày giao dịch đầu tiên trên Nasdaq",
+     "Ngày theo nguồn tin CNBC, chưa có thông báo chính thức. 09:30 ET là giờ mở cửa Mỹ; lệnh khớp đầu tiên của IPO lớn thường "
+     "muộn hơn, khoảng 11:00–13:00 ET = 23:00–01:00 VN (SpaceX 12/06: 11:46 ET). Chỉ tác động tới vàng nếu kéo theo biến động mạnh "
+     "của Nasdaq / lợi suất / USD: giá mở dưới giá IPO hoặc Nasdaq giảm >2% → theo dõi US10Y và DXY trước khi vào lệnh vàng.",
+     ["ipo_nasdaq", "nq_inv", "us10y_inv"], False),
     ("2026-11-24", "10:00", NY, "TB", "Niềm tin tiêu dùng Conference Board T11 (Mỹ)", "", ["cb_site", "cb_inv"], False),
     ("2026-11-25", "08:30", NY, "CAO", "GDP Q3/2026 (ước tính lần 2) + PCE lõi T10 + Đơn thất nghiệp (dời sớm do Lễ Tạ ơn)",
      "Dồn nhiều dữ liệu trước kỳ nghỉ, thanh khoản mỏng → biến động mạnh.",

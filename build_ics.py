@@ -53,6 +53,7 @@ LABEL = {
     "cb_site": "Conference Board", "cb_inv": "Investing", "eci_bls": "BLS ECI", "ecb_pr": "ECB", "ecb_inv": "Investing",
     "boj_pr": "BoJ", "boe_pr": "BoE", "pboc_safe": "SAFE", "ff": "ForexFactory", "nyse": "NYSE",
     "treasury_ref": "US Treasury", "fed_calendar": "Lịch sự kiện Fed", "fed_speeches_rss": "RSS phát biểu Fed",
+    "ipo_nasdaq": "Nasdaq IPO calendar", "ant_edgar": "SEC EDGAR (S-1)", "nq_inv": "Nasdaq-100 futures", "us10y_inv": "US10Y",
 }
 WD_VI = ["Thứ Hai", "Thứ Ba", "Thứ Tư", "Thứ Năm", "Thứ Sáu", "Thứ Bảy", "Chủ nhật"]
 
