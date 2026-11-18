@@ -1,19 +1,5 @@
 [
  {
-  "date": "2026-11-17",
-  "time": "09:10",
-  "tz": "America/New_York",
-  "impact": "TB",
-  "title": "Fed: Thống đốc Fed Christopher J. Waller — Phát biểu: Payments",
-  "note": "At The Clearing House (TCH) Annual Conference, New York, N.Y.. Giờ gốc ET theo lịch Fed.",
-  "links": [
-   "https://www.federalreserve.gov/newsevents/calendar.htm",
-   "https://avdusa.zoom.us/j/81071533579"
-  ],
-  "verified": true,
-  "source": "fed_json"
- },
- {
   "date": "2026-11-18",
   "time": "13:35",
   "tz": "America/New_York",
