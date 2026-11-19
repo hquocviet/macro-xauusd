@@ -1,19 +1,5 @@
 [
  {
-  "date": "2026-11-18",
-  "time": "13:35",
-  "tz": "America/New_York",
-  "impact": "TB",
-  "title": "Fed: Thống đốc Fed Michael S. Barr — Phát biểu: Community Development Investments",
-  "note": "At Making Missing Markets: Catalyzing Capital and Igniting Innovation, Federal Reserve Bank of New York, New York, N.Y.. Giờ gốc ET theo lịch Fed.",
-  "links": [
-   "https://www.federalreserve.gov/newsevents/calendar.htm",
-   "https://web.cvent.com/event/c6c9732e-65f1-42c9-8b92-fd955396ec06/register?rp=276284ef-6a44-4895-b452-f3b63709581b"
-  ],
-  "verified": true,
-  "source": "fed_json"
- },
- {
   "date": "2026-11-19",
   "time": "09:25",
   "tz": "America/New_York",
