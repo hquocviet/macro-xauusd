@@ -1,33 +1,5 @@
 [
  {
-  "date": "2026-11-19",
-  "time": "09:25",
-  "tz": "America/New_York",
-  "impact": "TB",
-  "title": "Fed: Phó Chủ tịch Fed Philip N. Jefferson — Thảo luận (có hỏi đáp): Economic Shocks",
-  "note": "At the International Monetary Fund (IMF) and Central Bank of Brazil conference \"A Quarter Century of Inflation Targeting in Latin America: Progress, Challenges, and the Road Ahead\" (virtual). Giờ gốc ET theo lịch Fed.",
-  "links": [
-   "https://www.federalreserve.gov/newsevents/calendar.htm",
-   "https://teams.microsoft.com/meet/2130457444862160?p=ynp4cqfcaAtsBBBsTM"
-  ],
-  "verified": true,
-  "source": "fed_json"
- },
- {
-  "date": "2026-11-19",
-  "time": "14:15",
-  "tz": "America/New_York",
-  "impact": "TB",
-  "title": "Fed: Thống đốc Fed Michael S. Barr — Thảo luận (có hỏi đáp): Artificial Intelligence",
-  "note": "At the FinRegLab 2026 AI Symposium, Washington, D.C.. Giờ gốc ET theo lịch Fed.",
-  "links": [
-   "https://www.federalreserve.gov/newsevents/calendar.htm",
-   "https://aisymposium.finreglab.org/press"
-  ],
-  "verified": true,
-  "source": "fed_json"
- },
- {
   "date": "2026-11-20",
   "time": "08:25",
   "tz": "America/New_York",
@@ -48,7 +20,8 @@
   "title": "Fed: Thống đốc Fed Lisa D. Cook — Phát biểu: The U.S. Economy in Global Context",
   "note": "At the Annual Conference of the Central Bank of Chile, Santiago, Chile. Giờ gốc ET theo lịch Fed.",
   "links": [
-   "https://www.federalreserve.gov/newsevents/calendar.htm"
+   "https://www.federalreserve.gov/newsevents/calendar.htm",
+   "https://www.youtube.com/watch?v=v_WEWJgJdHw"
   ],
   "verified": true,
   "source": "fed_json"
