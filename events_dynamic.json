@@ -1,1 +1,15 @@
-[]
+[
+ {
+  "date": "2026-11-25",
+  "time": "07:25",
+  "tz": "America/New_York",
+  "impact": "TB",
+  "title": "Fed: Phó Chủ tịch Fed (Giám sát) Michelle W. Bowman — Phát biểu: Modernizing Banking Supervision: A Shared Agenda for the Americas (via pre-recorded video)",
+  "note": "At a meeting with the Association of Supervisors of Banks of the Americas, Basel Committee on Banking Supervision, and Financial Stability Institute. Giờ gốc ET theo lịch Fed.",
+  "links": [
+   "https://www.federalreserve.gov/newsevents/calendar.htm"
+  ],
+  "verified": true,
+  "source": "fed_json"
+ }
+]
