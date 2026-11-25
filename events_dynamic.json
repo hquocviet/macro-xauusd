@@ -11,5 +11,18 @@
   ],
   "verified": true,
   "source": "fed_json"
+ },
+ {
+  "date": "2026-12-01",
+  "time": "10:00",
+  "tz": "America/New_York",
+  "impact": "CAO",
+  "title": "Fed: Phó Chủ tịch Fed (Giám sát) Michelle W. Bowman — Điều trần Quốc hội: Hearing on Oversight of Prudential Regulators",
+  "note": "Before the U.S. House Financial Services Committee. Giờ gốc ET theo lịch Fed.",
+  "links": [
+   "https://www.federalreserve.gov/newsevents/calendar.htm"
+  ],
+  "verified": true,
+  "source": "fed_json"
  }
 ]
